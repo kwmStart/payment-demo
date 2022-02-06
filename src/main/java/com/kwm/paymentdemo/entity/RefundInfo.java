@@ -6,10 +6,10 @@ import lombok.Data;
 @Data
 @TableName("t_refund_info")
 public class RefundInfo extends BaseEntity{
-
-    private String orderNo;//商品订单编号
-
-    private String refundNo;//退款单编号
+    //商品订单编号
+    private String orderNo;
+    //退款单编号
+    private String refundNo;
 
     private String refundId;//支付系统退款单号
 
