@@ -1,7 +1,7 @@
 package com.kwm.paymentdemo.service;
 
-import com.atguigu.paymentdemo.entity.OrderInfo;
 import com.baomidou.mybatisplus.extension.service.IService;
+import com.kwm.paymentdemo.entity.OrderInfo;
 
 public interface OrderInfoService extends IService<OrderInfo> {
 

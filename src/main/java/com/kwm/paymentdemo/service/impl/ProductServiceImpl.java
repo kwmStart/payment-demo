@@ -1,9 +1,9 @@
 package com.kwm.paymentdemo.service.impl;
 
-import com.atguigu.paymentdemo.entity.Product;
-import com.atguigu.paymentdemo.mapper.ProductMapper;
-import com.atguigu.paymentdemo.service.ProductService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
+import com.kwm.paymentdemo.entity.Product;
+import com.kwm.paymentdemo.mapper.ProductMapper;
+import com.kwm.paymentdemo.service.ProductService;
 import org.springframework.stereotype.Service;
 
 @Service

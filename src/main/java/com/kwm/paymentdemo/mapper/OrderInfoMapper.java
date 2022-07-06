@@ -1,7 +1,7 @@
 package com.kwm.paymentdemo.mapper;
 
-import com.atguigu.paymentdemo.entity.OrderInfo;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
+import com.kwm.paymentdemo.entity.OrderInfo;
 
 public interface OrderInfoMapper extends BaseMapper<OrderInfo> {
 
